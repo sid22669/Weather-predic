@@ -1,3 +1,4 @@
 flask
 pickle
-imblearn --ignore-installed scikit-learn
+imblearn
+scikit-learn
